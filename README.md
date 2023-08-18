@@ -1,2 +1,2 @@
 # Pictures
-My pictures
+图床
